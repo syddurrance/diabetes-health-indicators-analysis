@@ -1,4 +1,3 @@
-# diabetes-health-indicators-analysis
 # CDC Diabetes Health Indicators Analysis
 
 ## Overview
